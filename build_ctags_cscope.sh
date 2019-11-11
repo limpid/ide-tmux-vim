@@ -66,6 +66,7 @@ function main()
         source_path=("$working_path/common/funcs"
 					 "$working_path/common/template"
 					 "$working_path/common/transfer"
+					 "$working_path/common/logic"
 					 "$working_path/common/object"
 					 "$working_path/common/ipc"
 					 "$working_path/common/http"
